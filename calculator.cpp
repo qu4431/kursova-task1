@@ -14,3 +14,10 @@ int Calculator::Mul (double a, double b)
 {
     return a * b + 0.5;
 }
+int Calculator::asd (double a, double b)
+{
+    return a / b + 0.5;
+}int Calculator::qwe (double a, double b)
+{
+    return a * b * 0.5;
+}
